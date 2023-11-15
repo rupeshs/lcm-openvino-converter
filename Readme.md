@@ -21,4 +21,4 @@ LCM conversion is a two step process.
 `optimum-cli export openvino --model "rupeshs/LCM-dreamshaper-7" "LCM-dreamshaper-v7-openvino`
 
 Thanks [Disty0](https://github.com/Disty0) for the conversion script.
-This models can be used with [SDFast CPU](https://github.com/rupeshs/fastsdcpu)
+This models can be used with [FastSD CPU](https://github.com/rupeshs/fastsdcpu)
